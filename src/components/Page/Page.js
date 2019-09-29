@@ -7,9 +7,11 @@ class Page extends Component {
 
     render() {
         return (
-            <p>
-                Sayfa Component
-            </p>
+            <div className="row">
+                <div className="col-md-12">
+                    <p> Page Component</p>
+                </div>
+            </div>
         );
     }
 }

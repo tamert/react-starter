@@ -35,6 +35,7 @@
     "@babel/runtime-corejs3": "^7.6.0",
     "autoprefixer": "^9.6.1",
     "babel-loader": "^8.0.6",
+    "boostrap": "^2.0.0",
     "core-js": "^3.2.1",
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",

@@ -7,9 +7,11 @@ class Home extends Component {
 
     render() {
         return (
-            <p>
-                Merhaba Dünya
-            </p>
+            <div className="row">
+                <div className="col-md-12">
+                    <p> Hello World - Home Component</p>
+                </div>
+            </div>
         );
     }
 }
